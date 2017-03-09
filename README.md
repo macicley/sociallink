@@ -1,2 +1,2 @@
 # sociallink
-Repositorio para disciplina LPIII
+Repositório para disciplina LPIII
