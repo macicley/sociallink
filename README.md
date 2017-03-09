@@ -1,2 +1,2 @@
-# sociallink
+# link social
 Repositório para disciplina LPIII
